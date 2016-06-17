@@ -1,2 +1,2 @@
 # c-testing-framework
-Framework for running tests of c modules
+Framework for running tests on c modules
