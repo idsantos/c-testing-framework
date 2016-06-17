@@ -1,6 +1,6 @@
 /* File: vbrnd.h */
-#ifndef VBRND_DEFINED
-#define VBRND_DEFINED
+#ifndef VBRND_H
+#define VBRND_H
 
 #ifdef __cplusplus
 extern "C" {
@@ -13,4 +13,4 @@ extern "C" {
 }
 #endif
 
-#endif /* VBRND_DEFINED */
+#endif /* VBRND_H */
