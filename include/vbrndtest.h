@@ -1,6 +1,6 @@
 /* File: vbrndtest.h */
-#ifndef VBRNDTEST_DEFINED
-#define VBRNDTEST_DEFINED
+#ifndef VBRNDTEST_H
+#define VBRNDTEST_H
 
 #ifdef __cplusplus
 extern "C" {
@@ -12,5 +12,5 @@ extern "C" {
 }
 #endif
 
-#endif /* VBRNDTEST_DEFINED */
+#endif /* VBRNDTEST_H */
 
